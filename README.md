@@ -12,7 +12,7 @@
 
 # 不具合
 
-ルール上の間違いやその他の修正を要する点を発見した場合は、[issue]を作成してください｡ そうすればメンテナーの誰かが確認してくれるでしょう｡
+- ルール上の間違いやその他の修正を要する点を発見した場合は、[issue]を作成してください｡ メンバーの誰かが確認してくれるはずです｡
 
   [Wikiの移行方針]: https://github.com/retlet/dominion_judgement/wiki
   [本書のルール]: https://github.com/retlet/dominion_judgement/tree/master/02-本書のルール
